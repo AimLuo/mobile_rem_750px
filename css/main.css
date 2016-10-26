@@ -3,6 +3,6 @@ html{
 	line-height: initial;
 }
 body{
-	font-size: 16px;
+	font-size: 0.32rem;
 }
 /*上面两行代码特意提出来，是为了解决html字体过大时，他的line-height对子孙元素的不良影响。必不可少，开发时你可以把他放到样式重置中。*/
